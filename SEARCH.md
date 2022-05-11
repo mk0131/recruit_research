@@ -36,6 +36,7 @@
     - 빅데이터 클러스터(DIC) 활용 및 개발 경험 우대
     - Cloud DevOps 관련 지식 보유자 우대
 - 원스토어
+
   - 자격 요건
     - Java & Spring framework 기반 웹서비스 개발 경력 5년 이상
     - Oracle/MySQL 등 DB 설계/개발 경험
